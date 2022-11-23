@@ -1,0 +1,1 @@
+const userAge = prompt("¿Cuántos años tienes?");
